@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sveta Konfeta :)
+          Sveta KonfetaAAAAAAAAAAAAAAAAAA
         </a>
       </header>
     </div>
